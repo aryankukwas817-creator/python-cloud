@@ -1,0 +1,5 @@
+print(2+3*4)
+print((2+3)*4)
+print(2**3**2)
+print(not True or True)
+print(5>3 and 2<1)
