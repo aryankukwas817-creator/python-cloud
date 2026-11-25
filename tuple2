@@ -1,0 +1,7 @@
+a=(10,20,22,33)
+print(a)
+print(a[1])  #index of tuple
+print(a[-1])
+#[-1,-2,-3,-4=reverse direction counting=33,22,20,10:
+print(a[::2])
+print(a[::-2])
