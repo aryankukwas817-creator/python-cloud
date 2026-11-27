@@ -1,0 +1,166 @@
+C:\Python\Cloud\DevOps>tree c:\python
+Folder PATH listing for volume Acer
+Volume serial number is AAA4-EC97
+C:\PYTHON
+└───Cloud
+    └───DevOps
+        ├───code
+        │   └───java
+        │       └───dsa
+        └───java
+
+C:\Python\Cloud\DevOps>tree c:\python:\cloud
+Folder PATH listing for volume Acer
+Volume serial number is AAA4-EC97
+C:\PYTHON:\CLOUD
+Invalid path - \PYTHON:\CLOUD
+No subfolders exist
+
+
+C:\Python\Cloud\DevOps>tree c:\python
+Folder PATH listing for volume Acer
+Volume serial number is AAA4-EC97
+C:\PYTHON
+└───Cloud
+    └───DevOps
+        ├───code
+        │   └───java
+        │       └───dsa
+        └───java
+
+C:\Python\Cloud\DevOps>dir /s c:\python
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of c:\python
+
+27-11-2026  09:44    <DIR>          .
+27-11-2026  09:44    <DIR>          Cloud
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud
+
+27-11-2026  09:44    <DIR>          .
+27-11-2026  09:44    <DIR>          ..
+27-11-2026  10:10    <DIR>          DevOps
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud\DevOps
+
+27-11-2026  10:10    <DIR>          .
+27-11-2026  09:44    <DIR>          ..
+27-11-2026  10:10    <DIR>          code
+27-11-2026  10:05    <DIR>          java
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud\DevOps\code
+
+27-11-2026  10:10    <DIR>          .
+27-11-2026  10:10    <DIR>          ..
+27-11-2026  10:10    <DIR>          java
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud\DevOps\code\java
+
+27-11-2026  10:10    <DIR>          .
+27-11-2026  10:10    <DIR>          ..
+27-11-2026  10:10    <DIR>          dsa
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud\DevOps\code\java\dsa
+
+27-11-2026  10:10    <DIR>          .
+27-11-2026  10:10    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\python\Cloud\DevOps\java
+
+27-11-2026  10:05    <DIR>          .
+27-11-2026  10:10    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+               0 File(s)              0 bytes
+              19 Dir(s)  102,294,241,280 bytes free
+
+C:\Python\Cloud\DevOps>cd..
+
+C:\Python\Cloud>cd..
+
+C:\Python>dir
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of C:\Python
+
+27-11-2026  09:44    <DIR>          .
+27-11-2026  09:44    <DIR>          Cloud
+               0 File(s)              0 bytes
+               2 Dir(s)  102,123,741,184 bytes free
+
+C:\Python>type nul>aryan.txt
+
+C:\Python>dir
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of C:\Python
+
+27-11-2026  10:22    <DIR>          .
+27-11-2026  10:22                 0 aryan.txt
+27-11-2026  09:44    <DIR>          Cloud
+               1 File(s)              0 bytes
+               2 Dir(s)  102,126,731,264 bytes free
+
+C:\Python>type nul>aryan.dock
+
+C:\Python>dir
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of C:\Python
+
+27-11-2026  10:24    <DIR>          .
+27-11-2026  10:24                 0 aryan.dock
+27-11-2026  10:22                 0 aryan.txt
+27-11-2026  09:44    <DIR>          Cloud
+               2 File(s)              0 bytes
+               2 Dir(s)  102,126,542,848 bytes free
+
+C:\Python>type nul>aryan.doc
+
+C:\Python>type nul>ryan.pdf
+
+C:\Python>dir
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of C:\Python
+
+27-11-2026  10:25    <DIR>          .
+27-11-2026  10:25                 0 aryan.doc
+27-11-2026  10:24                 0 aryan.dock
+27-11-2026  10:22                 0 aryan.txt
+27-11-2026  09:44    <DIR>          Cloud
+27-11-2026  10:25                 0 ryan.pdf
+               4 File(s)              0 bytes
+               2 Dir(s)  102,126,542,848 bytes free
+
+C:\Python>dir
+ Volume in drive C is Acer
+ Volume Serial Number is AAA4-EC97
+
+ Directory of C:\Python
+
+27-11-2026  10:25    <DIR>          .
+27-11-2026  10:25                 0 aryan.doc
+27-11-2026  10:22                 0 aryan.txt
+27-11-2026  09:44    <DIR>          Cloud
+27-11-2026  10:25                 0 ryan.pdf
+               3 File(s)              0 bytes
+               2 Dir(s)  102,126,047,232 bytes free
+
+C:\Python>type aryan.txt
+hello Aryan
+
+C:\Python>
